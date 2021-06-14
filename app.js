@@ -1,6 +1,6 @@
 'use strict';
 
-// load modules t
+// load modules
 const express = require('express');
 const morgan = require('morgan');
 
